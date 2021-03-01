@@ -33,15 +33,6 @@ Some test shaders are applied to meshes and placed on the scene.
 9. 草むらシェーダ(vert+hull+domain+geo+frag)<br>
     ある程度葉の形状や色を変えたり、草の葉の量を増減できます。影がちゃんと落ちるようにしたいので後日改良(したい)
 
-* 画面に各種ノイズをかけるポストエフェクト: 5のシェーダをポストエフェクト用に書き換えた例。<br>
-ポストエフェクトは別リポジトリに分けました <https://github.com/ButchKoh/CustomPostProcess><br>
-![Videotogif](https://user-images.githubusercontent.com/64464106/104188100-13bfe680-545c-11eb-9e1b-c699459f39f1.gif)
-
-* かけられるノイズの種類
-
-![Videotogif (1)](https://user-images.githubusercontent.com/64464106/104188095-115d8c80-545c-11eb-82d3-cf957149a8b9.gif)
-
-
 ## Scenes>ReflectionScene
 
 反射モデル等の比較をしたシーン<br>
